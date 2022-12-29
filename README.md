@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlStep
-- 👀 I’m interested in Python, C++ and JavaScript.
-- 🌱 I’m currently learning Python and JavaScript.
+- 👀 I’m interested in Python, C++, JavaScript and  Rust.
+- 🌱 I’m currently learning Python, C++, JavaScript and Rust.
 - 💞️ I’m looking to collaborate on some small projects, which are suitable for medium level.
 - 📫 How to reach me: on GitHub
 
