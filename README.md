@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlStep
-- 👀 I’m interested in Python, C++, JavaScript and  Rust.
-- 🌱 I’m currently learning Python, C++, JavaScript and Rust.
+- 👀 I’m interested in Python, TypeScript and all stuff related to Machine Learning and Neural Networks.
+- 🌱 I’m currently trying to master Python and TypeScript.
 - 💞️ I’m looking to collaborate on some small projects, which are suitable for medium level.
 - 📫 How to reach me: on GitHub
 
